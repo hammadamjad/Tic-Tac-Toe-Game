@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+    width: 100%;
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 70%;
+    height: 30vh;
+    text-align: center;
+    margin-top: 100px;
+    background-color: aquamarine;
+}
+
+td{
+    width: 150px;
+    height: 150px;
+    border: 5px solid black;
+    font-size: 80px;
+    text-align: center;
+}
+.align-center{
+    margin: 40px auto;
+}
+
+
